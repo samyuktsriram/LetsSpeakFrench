@@ -1,6 +1,6 @@
 ### French Speaking Practice
 
-Learning a new language is hard. Practicing speaking a new language is harder, especially if you don't have any francophone friends like me. 
+Learning a new language is hard. Practicing speaking a new language is harder, especially if you don't have any willing francophone friends.
 
 This project helps you practice speaking, with a bot, using open-source LLMs. You can speak, get an LLM response (in audio and then text), then continue a conversation. 
 
