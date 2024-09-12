@@ -1,4 +1,4 @@
-### French Speaking Practice
+### Let's Speak French :)
 
 Learning a new language is hard. Practicing speaking a new language is harder, especially if you don't have any willing francophone friends.
 
