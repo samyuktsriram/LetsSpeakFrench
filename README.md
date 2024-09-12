@@ -13,5 +13,6 @@ There's no substitute for a qualified teacher and/or patient native speakers, bu
 1. Clone this repo, create a virtual environment with Python 3.11.1
 2. pip install the requirements.txt file
 3. You may need to allow your python editor to access your laptop microphone - depending on your device
-4. You should be good to go - just run main.py to start. The first time you run this, it will take some time as the whisper-small audio recognition model will get downloaded locally.
+4. Input a valid HuggingFace Access Token in main.py, so you can use the Huggingface APIs
+5. You should be good to go - just run main.py to start. The first time you run this, it will take some time as the whisper-small audio recognition model will get downloaded locally.
    
