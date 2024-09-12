@@ -6,7 +6,7 @@ This project helps you practice speaking, with a bot, using open-source LLMs. Yo
 
 There are also vocabulary assists, and the prompt can be changed for different types of conversions.
 
-There's no substitute for a qualified teacher and/or patient native speakers, but getting some live audio responses with questions can be quite helpful for practicing dialogues / getting more comfortable expressing ideas.
+There's no substitute for a qualified teacher and/or patient native speakers, but getting some live audio responses with questions can be quite helpful for practicing dialogues / getting more comfortable expressing ideas in your target language.
 
 ### Setup
 
